@@ -1,5 +1,4 @@
-/*name: Aloysius Paredes
- netid: apared5*/
+
 
 #include "list.h"
 #include "llist.c"
